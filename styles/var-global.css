@@ -1,0 +1,26 @@
+﻿:root {
+
+  /* Variavéis globais */
+
+
+  --dark-purple: #7D6CF2;
+  --dark-sky-blue: #1E96FC;
+  --dark-blue: #0A3871;
+  --dark-grey: #bbc8d4;
+  --light-blue: #A2D6F9;
+  --black: #000000;
+
+  --transparent-blue: #0a23423a;
+  --background: #E3F2FD;
+
+
+  --btn-w: 328px;
+  --btn-h: 67px;
+  --btn-radius: 24px;
+  --btn-font-size: 20px;
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}

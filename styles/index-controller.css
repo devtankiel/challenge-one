@@ -1,0 +1,6 @@
+﻿/* Controlador para os links CSS para a index */
+
+@import url(reset.css); /* Reset */
+@import url(var-global.css); /* Variáveis globais */
+@import url(home.css);
+@import url(screens.css);
